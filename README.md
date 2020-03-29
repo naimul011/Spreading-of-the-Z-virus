@@ -11,8 +11,8 @@ Suppose that whenever a student gets infected, he transmitted it to all his frie
 
 The goal is to determine:
 
-1. Maximum daily boom size_, which is the largest number of students that, on a single day, get infected; and
+1. Maximum no. of infected people, which is the largest number of students that, on a single day, get infected; and
 
-2. Maximum no. of infected people_, which is the 1st day on which the maximum daily boom size occurs.
+2. Day of Maximum no. of infected people, which is the 1st day on which the maximum daily boom size occurs.
 
 Write a program that, given the friendship relations between all the students in the dorm and the 1st infected student, computes the maximum daily boom size and the 1st boom day of spreading process.
