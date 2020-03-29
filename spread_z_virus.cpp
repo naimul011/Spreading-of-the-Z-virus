@@ -1,4 +1,4 @@
-// Author : Naimul Haque, 29/11/2019
+// Author : Naimul Haque, 30/03/2020
 // Spreading of the Z virus
 
 #include <iostream>
