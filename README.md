@@ -1,5 +1,5 @@
 # Spreading of the Z virus
-
+## youtube https://www.youtube.com/watch?v=KtFvj5T9fp8&t=155s
 
 The city of Plutonian has been struck by deadly Z Virus.  The virus spreads through human contact. The Z virus infected a student at Elite Plutonian Institute. We assume the parasite will spread unconsciously to host&#39;s friends and periodically to friends&#39; friends with 100% probability.
 
